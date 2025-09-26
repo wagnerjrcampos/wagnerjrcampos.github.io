@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0;url=https://wa.me/5521982099117?text=Olá%2C+gostaria+de+saber+mais+sobre+os+serviços+da+Mjolnir+Soluções+de+TI.
+">
+    <title>Redirecionando…</title>
+    <script>location.replace("https://wa.me/5521982099117?text=Olá%2C+gostaria+de+saber+mais+sobre+os+serviços+da+Mjolnir+Soluções+de+TI.
+");</script>
+  </head>
+  <body>
+    Se não redirecionou, <a href="https://wa.me/5521982099117?text=Olá%2C+gostaria+de+saber+mais+sobre+os+serviços+da+Mjolnir+Soluções+de+TI.
+">clique aqui</a>.
+  </body>
+</html>
